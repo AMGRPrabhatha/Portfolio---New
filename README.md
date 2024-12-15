@@ -1,8 +1,11 @@
+![Portfolio](https://github.com/user-attachments/assets/8e2bf006-b4f3-4cf2-a353-e1e58a66ada0)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App].
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
